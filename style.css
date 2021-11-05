@@ -1,0 +1,397 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.title {
+    color: #058569;
+}
+
+.ptable {
+    align-items: center;
+}
+
+.green {
+    width: 76px;
+    padding: 5px;
+    border-radius: 8px;
+    background: green;
+}
+
+.red {
+    width: 76px;
+    padding: 5px;
+    border-radius: 8px;
+    background: red;
+}
+
+.l-green {
+    width: 76px;
+    padding: 5px;
+    border-radius: 8px;
+    background: lightgreen;
+}
+
+.brown {
+    width: 76px;
+    padding: 5px;
+    border-radius: 8px;
+    background: brown;
+}
+
+.orange {
+    width: 76px;
+    padding: 5px;
+    border-radius: 8px;
+    background: orange;
+}
+
+.yellow {
+    width: 76px;
+    padding: 5px;
+    border-radius: 8px;
+    background: #ffc400; 
+}
+
+.d-red {
+    width: 76px;
+    padding: 5px;
+    border-radius: 8px;
+    background: darkred; 
+}
+
+.l-blue {
+    width: 76px;
+    padding: 5px;
+    border-radius: 8px;
+    background: dodgerblue; 
+}
+
+#h {
+    position: absolute;
+    left: 10%;
+}
+
+#he {
+    position: absolute;
+    left: 87.6%;
+}
+
+#li {
+    position: absolute;
+    left: 10%;
+    margin-top: 86px;
+}
+
+#be {
+    position: absolute;
+    left: 14.6%;
+    margin-top: 86px;
+}
+
+#b {
+    position: absolute;
+    left: 64.6%;
+    margin-top: 86px;
+}
+
+#c {
+    position: absolute;
+    left: 69.2%;
+    margin-top: 86px;
+}
+
+#n {
+    position: absolute;
+    left: 73.8%;
+    margin-top: 86px;
+}
+
+#o {
+    position: absolute;
+    left: 78.4%;
+    margin-top: 86px;
+}
+
+#f {
+    position: absolute;
+    left: 83%;
+    margin-top: 86px;
+}
+
+#ne {
+    position: absolute;
+    left: 87.6%;
+    margin-top: 86px;
+}
+
+#na {
+    position: absolute;
+    left: 10%;
+    margin-top: 172px;
+}
+
+#mg {
+    position: absolute;
+    left: 14.6%;
+    margin-top: 172px;
+}
+
+#al {
+    position: absolute;
+    left: 64.6%;
+    margin-top: 172px;
+}
+
+#si {
+    position: absolute;
+    left: 69.2%;
+    margin-top: 172px;
+}
+
+#p {
+    position: absolute;
+    left: 73.8%;
+    margin-top: 172px;
+}
+
+#s {
+    position: absolute;
+    left: 78.4%;
+    margin-top: 172px;
+}
+
+#cl {
+    position: absolute;
+    left: 83%;
+    margin-top: 172px;
+}
+
+#ar {
+    position: absolute;
+    left: 87.6%;
+    margin-top: 172px;
+}
+
+#k {
+    position: absolute;
+    left: 10%;
+    margin-top: 258px;
+}
+
+#ca {
+    position: absolute;
+    left: 14.6%;
+    margin-top: 258px;
+}
+
+#sc {
+    position: absolute;
+    left: 19.2%;
+    margin-top: 258px;
+}
+
+#ti {
+    position: absolute;
+    left: 23.8%;
+    margin-top: 258px;
+}
+
+#v {
+    position: absolute;
+    left: 28.4%;
+    margin-top: 258px;
+}
+
+#cr {
+    position: absolute;
+    left: 33%;
+    margin-top: 258px;
+}
+
+#mn {
+    position: absolute;
+    left: 37.6%;
+    margin-top: 258px;
+}
+
+#fe {
+    position: absolute;
+    left: 42.2%;
+    margin-top: 258px;
+}
+
+#co {
+    position: absolute;
+    left: 46.8%;
+    margin-top: 258px;
+}
+
+#ni {
+    position: absolute;
+    left: 51.4%;
+    margin-top: 258px;
+}
+
+#cu {
+    position: absolute;
+    left: 56%;
+    margin-top: 258px;
+}
+
+#zn {
+    position: absolute;
+    left: 60.6%;
+    margin-top: 258px;
+    width: 63px;
+}
+
+#ga {
+    position: absolute;
+    left: 64.6%;
+    margin-top: 258px;
+}
+
+#ge {
+    position: absolute;
+    left: 69.2%;
+    margin-top: 258px;
+}
+
+#as {
+    position: absolute;
+    left: 73.8%;
+    margin-top: 258px;
+}
+
+#se {
+    position: absolute;
+    left: 78.4%;
+    margin-top: 258px;
+}
+
+#br {
+    position: absolute;
+    left: 83%;
+    margin-top: 258px;
+}
+
+#kr {
+    position: absolute;
+    left: 87.6%;
+    margin-top: 258px;
+}
+
+#rb {
+    position: absolute;
+    left: 10%;
+    margin-top: 344px;
+}
+
+#sr {
+    position: absolute;
+    left: 14.6%;
+    margin-top: 344px;
+}
+
+#y {
+    position: absolute;
+    left: 19.2%;
+    margin-top: 344px;
+}
+
+#zr {
+    position: absolute;
+    left: 23.8%;
+    margin-top: 344px;
+}
+
+#nb {
+    position: absolute;
+    left: 28.4%;
+    margin-top: 344px;
+}
+
+#mo {
+    position: absolute;
+    left: 33%;
+    margin-top: 344px;
+}
+
+#tc {
+    position: absolute;
+    left: 37.6%;
+    margin-top: 344px;
+}
+
+#ru {
+    position: absolute;
+    left: 42.2%;
+    margin-top: 344px;
+}
+
+#rh {
+    position: absolute;
+    left: 46.8%;
+    margin-top: 344px;
+}
+
+#pd {
+    position: absolute;
+    left: 51.4%;
+    margin-top: 344px;
+}
+
+#ag {
+    position: absolute;
+    left: 56%;
+    margin-top: 344px;
+}
+
+#cd {
+    position: absolute;
+    left: 60.6%;
+    margin-top: 344px;
+    width: 63px;
+}
+
+#in {
+    position: absolute;
+    left: 64.6%;
+    margin-top: 344px;
+}
+
+#sn {
+    position: absolute;
+    left: 69.2%;
+    margin-top: 344px;
+}
+
+#sb {
+    position: absolute;
+    left: 73.8%;
+    margin-top: 344px;
+}
+
+#te {
+    position: absolute;
+    left: 78.4%;
+    margin-top: 344px;
+}
+
+#i {
+    position: absolute;
+    left: 83%;
+    margin-top: 344px;
+}
+
+#xe {
+    position: absolute;
+    left: 87.6%;
+    margin-top: 344px;
+}
+
+.first-r{
+    display: flex;
+}
